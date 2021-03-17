@@ -278,7 +278,7 @@
                                     <h5>5. kasih saos sambal, saos tomat dan mayonaise secukupnya</h5>
                                    <h5>6. Tambahkan sayuran dan bawang bombay yang sudah diiris</h5>
                                    <h5>7. Tambahkan keju jika suka</h5>
-                                   <h5>Lalu burger siap untuk di santapp</h5>
+                                   <h5>Lalu burger siap untuk di santap</h5>
                                 </div>
                                 </div>                       
                             </div>
