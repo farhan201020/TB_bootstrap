@@ -130,7 +130,6 @@
             </section>
 
              <section id="gallery">
-                <div class="container-fluid">
                 <div class="col-md-12 mx-auto text-center">
                             <h1 style="color: white">Galeri</h1>
                         </div>
@@ -155,7 +154,6 @@
                         <span class="sr-only">Next</span>
                       </a>
                 </div>
-            </div>
             </section>  
 
             <div style="background-color: white height:100px">
@@ -236,7 +234,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 mx-auto text-center">
-                            <div style="text-align: center; color: white">
+                            <div style="text-align: justify; color: white">
                             <h1>Sejarah Burger</h1>
                             <h5>Hamburger (atau sering kali disebut dengan burger) adalah sejenis makanan berupa roti berbentuk bundar yang diiris dua dan di tengahnya diisi dengan patty yang biasanya diambil dari daging, kemudian sayur-sayuran berupa selada, tomat dan bawang bombay. Sebagai sausnya, burger diberi berbagai jenis saus seperti mayones, saus tomat dan sambal serta mustard. Beberapa varian burger juga dilengkapi dengan keju, asinan, serta bahan pelengkap lain seperti sosis dan ham.</h5>
                             <h5>Banyak orang keliru dan mengira bahwa nama Hamburger berasal dari kata "Ham", namun sebenarnya namanya berasal dari kota Hamburg di Jerman, tempat makanan ini berasal. Dari kota kedua terbesar di Jerman ini banyak penduduknya yang beremigrasi ke Amerika dan menyebarkan pembuatan burger ke sana. Hanyalah sebuah kebetulan bahwa kata "ham" yang dalam bahasa Inggris berarti daging asap memiliki bunyi yang hampir serupa dengan Hamburger, faktanya hamburger tidak mengandung Ham (meskipun ada juga restoran yang menambahkan irisan Ham pada burger mereka untuk menambah cita rasa)</h5>
@@ -251,8 +249,8 @@
 
                         <div calss="container">
                             <div class="row">
-                                <div class="col-md-9 mx-auto text-center">
-                                    <div style="text-align: center; color: white;">
+                                <div class="col-md-9 mx-auto ">
+                                    <div style="text-align: justify; color: white;">
                                      <h1>Etimologi Burger</h1>
                                     <h5>Banyak orang keliru dan mengira bahwa nama Hamburger berasal dari kata "Ham", namun sebenarnya namanya berasal dari kota Hamburg di Jerman, tempat makanan ini berasal. Dari kota kedua terbesar di Jerman ini banyak penduduknya yang beremigrasi ke Amerika dan menyebarkan pembuatan burger ke sana. Hanyalah sebuah kebetulan bahwa kata "ham" yang dalam bahasa Inggris berarti daging asap memiliki bunyi yang hampir serupa dengan Hamburger, faktanya hamburger tidak mengandung Ham (meskipun ada juga restoran yang menambahkan irisan Ham pada burger mereka untuk menambah cita rasa).</h5>
                                     <h5>Jadi secara harafiah dapat disimpulkan bahwa arti kata Hamburger berarti "makanan yang berasal dari Hamburg" dan bukan berarti "makanan yang mengandung Ham". Namun pada praktiknya burger atau hamburger lebih sering diartikan sebagai sandwich atau jenis roti isi lainnya yang berbentuk bulat. Dalam masyarakat kata burger sudah lebih melekat sebagai jenis makanannya daripada asal muasal dan pencipta dari burger.</h5>
@@ -265,13 +263,11 @@
                 </div>
 
             </section>
-
-            <section id="howtomake" style="background-image: url('img/htm.jpg'); height: 100vh; background-size: cover; background-attachment: fixed;"> -->
-                    <div class="container">
-                        <div calss="container">
+            <div class="container-fluid ">
+            <section id="howtomake" style="background-image: url('img/htm.jpg'); height: 100vh; background-size: cover; background-attachment: fixed;">
                             <div class="row">
                                 <div class="col-md-9 mx-auto text-center">
-                                    <div style="text-align: center; color: white;">
+                                    <div style="text-align: justify; color: white;">
                                      <h1>Cara Membuat Burger</h1>
                                      <h5>1. Panaskan panci dengan api kecil dan jika sudah panas, masukkan sedikit margarin</h5>
                                      <h5>2. Goreng daging burger sampai matang</h5>
@@ -288,11 +284,11 @@
                         </div>
                     </div>
                 </div>
-               </div>
+            </div>
             </section>
 
 
-
+    <div class="container-fluid">
     <footer class="bg-light text-center text-lg-start ">
   
       <div class="container p-4">
