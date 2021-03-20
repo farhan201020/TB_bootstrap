@@ -129,7 +129,8 @@
 
             </section>
 
-             <section id="gallery" style="height: 100vh">
+             <section id="gallery">
+                <div class="container-fluid">
                 <div class="col-md-12 mx-auto text-center">
                             <h1 style="color: white">Galeri</h1>
                         </div>
@@ -154,6 +155,7 @@
                         <span class="sr-only">Next</span>
                       </a>
                 </div>
+            </div>
             </section>  
 
             <div style="background-color: white height:100px">
@@ -264,8 +266,8 @@
 
             </section>
 
-            < <section id="howtomake" style="background-image: url('img/htm.jpg'); height: 100vh; background-size: cover; background-attachment: fixed;"> -->
-
+            <section id="howtomake" style="background-image: url('img/htm.jpg'); height: 100vh; background-size: cover; background-attachment: fixed;"> -->
+                    <div class="container">
                         <div calss="container">
                             <div class="row">
                                 <div class="col-md-9 mx-auto text-center">
@@ -286,8 +288,9 @@
                         </div>
                     </div>
                 </div>
-
+               </div>
             </section>
+
 
 
     <footer class="bg-light text-center text-lg-start ">
